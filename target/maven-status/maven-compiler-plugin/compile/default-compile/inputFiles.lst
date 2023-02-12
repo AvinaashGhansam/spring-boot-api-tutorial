@@ -3,7 +3,9 @@ C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webs
 C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\versioning\PersonV2.java
 C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\exception\ErrorDetails.java
 C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\versioning\Name.java
+C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\filtering\SomeBean.java
 C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\RestfulWebServicesApplication.java
+C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\filtering\FilteringController.java
 C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\exception\CustomizedResponseEntityExceptionHandler.java
 C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\versioning\PersonV1.java
 C:\Users\avina\Development\Java\rest-api\src\main\java\com\in28minutes\rest\webservices\restfulwebservices\helloworld\HelloWorldBean.java
