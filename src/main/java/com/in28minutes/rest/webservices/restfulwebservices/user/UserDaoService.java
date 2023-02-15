@@ -6,7 +6,9 @@ import java.util.List;
 import java.util.function.Predicate;
 
 import org.springframework.stereotype.Component;
-
+/**
+ * No loner user. Replaced py UserJpaResources {@link UserJpaResource}
+ */
 @Component
 public class UserDaoService {
 	// JPA/Hibernate > Database
